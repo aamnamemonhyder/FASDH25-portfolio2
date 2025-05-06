@@ -1,0 +1,6 @@
+animated map? plotly express
+once wehave a df in columns it has one argument for scatter map funtion. merge coordinates and counts.
+ccoord daf with count df and then making sure map is
+showing month wise?
+
+
