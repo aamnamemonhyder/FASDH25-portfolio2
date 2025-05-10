@@ -26,18 +26,18 @@ Compare the January 2024 maps generated from the regex- and NER data
 
 Self-critical analysis: what are the weaknesses of the project as it currently is; what could be improved if there was more time?
 
-date
-    #october7
+Date(s)
+#October7
 
-    people
-    @mirandacleland
-    @carogennez
-    farhana
-    abudaqa
-    nairoukh
-    motaz
-    @azaizamotaz9
-    netanyahu
+PERSONS (or social media handles)
+@mirandacleland
+@carogennez
+Farhana
+Abudaqa
+Nairoukh
+Motaz
+@azaizamotaz9
+Netanyahu
     @adoniaayebare
     @repjayapal
     @repcori
